@@ -1,0 +1,32 @@
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.exe
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.deps.json
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.runtimeconfig.json
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.runtimeconfig.dev.json
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\Hoste Management.pdb
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.csproj.AssemblyReference.cache
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.Form1.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.csproj.GenerateResource.cache
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.AssemblyInfoInputs.cache
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.AssemblyInfo.cs
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.csproj.CoreCompileInputs.cache
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.dll
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\refint\Hoste Management.dll
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.pdb
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.genruntimeconfig.cache
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\ref\Hoste Management.dll
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.Properties.Resources.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.Rooms.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.employe.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.student.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.fees.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.Salary.resources
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste_Management.Mainpage.resources
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\C#\Hoste Management\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\C#\Hoste Management\obj\Debug\net5.0-windows\Hoste Management.csproj.CopyComplete
